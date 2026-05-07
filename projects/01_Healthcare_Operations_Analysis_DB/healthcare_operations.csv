@@ -1,0 +1,101 @@
+Patient_ID,Patient_Name,Age,Hospital_Name,Department,Doctor_Name,Diagnosis,Admission_Date,Discharge_Date,Bill_Amount,Status
+P1000,Patient_0,33,City General,Orthopedics,Dr. Wilson,Cardiac Arrest,2024-04-04,NULL,1800.68,Admitted
+P1001,Patient_1,58,City General,Cardiology,Dr. Wilson,Cardiac Arrest,2024-02-01,NULL,1052.97,Admitted
+P1002,Patient_2,35,St. Jude Medical,Emergency,Dr. Jones,Diabetes,2024-02-26,2024-03-01,12263.77,Transferred
+P1003,Patient_3,79,Riverside Clinic,Cardiology,Dr. Davis,Hypertension,2024-04-29,2024-05-01,5733.21,Transferred
+P1004,Patient_4,16,St. Jude Medical,Emergency,Dr. Wilson,Diabetes,2024-04-29,2024-05-08,3410.66,Transferred
+P1005,Patient_5,15,City General,Emergency,Dr. Taylor,Asthma,2024-03-03,2024-03-08,10973.84,Transferred
+P1006,Patient_6,30,City General,Cardiology,Dr. Brown,Asthma,2024-04-10,NULL,2315.76,Admitted
+P1007,Patient_7,24,Northwest Health,Oncology,Dr. Taylor,Dehydration,2024-01-07,2024-01-13,9141.52,Discharged
+P1008,Patient_8,56,Northwest Health,Orthopedics,Dr. Jones,Appendicitis,2024-01-05,NULL,647.51,Admitted
+P1009,Patient_9,67,Memorial Hospital,Emergency,Dr. Wilson,Diabetes,2024-04-02,2024-04-06,7413.96,Discharged
+P1010,Patient_10,65,Memorial Hospital,Cardiology,Dr. Brown,Asthma,2024-02-20,2024-02-23,4811.75,Transferred
+P1011,Patient_11,85,Riverside Clinic,Emergency,Dr. Brown,Asthma,2024-04-07,NULL,10576.71,Admitted
+P1012,Patient_12,81,St. Jude Medical,Orthopedics,Dr. Brown,Cardiac Arrest,2024-01-23,2024-01-31,14698.04,Transferred
+P1013,Patient_13,24,Northwest Health,Oncology,Dr. Davis,Appendicitis,2024-03-09,2024-03-12,3546.23,Transferred
+P1014,Patient_14,71,City General,Orthopedics,Dr. Wilson,Asthma,2024-02-17,2024-02-20,3628.36,Transferred
+P1015,Patient_15,51,Memorial Hospital,Orthopedics,Dr. Taylor,Dehydration,2024-04-05,2024-04-11,7488.31,Discharged
+P1016,Patient_16,82,St. Jude Medical,Pediatrics,Dr. Taylor,Diabetes,2024-01-10,2024-01-12,8905.65,Transferred
+P1017,Patient_17,85,Memorial Hospital,Internal Medicine,Dr. Wilson,Influenza,2024-03-17,NULL,4054.63,Admitted
+P1018,Patient_18,49,Riverside Clinic,Pediatrics,Dr. Jones,Dehydration,2024-04-02,NULL,5792.44,Admitted
+P1019,Patient_19,92,Riverside Clinic,Internal Medicine,Dr. Davis,Influenza,2024-02-06,NULL,9784.98,Admitted
+P1020,Patient_20,86,Northwest Health,Internal Medicine,Dr. Taylor,Hypertension,2024-01-09,2024-01-10,13336.15,Transferred
+P1021,Patient_21,78,Northwest Health,Emergency,Dr. Wilson,Influenza,2024-02-11,2024-02-14,14014.51,Discharged
+P1022,Patient_22,9,City General,Oncology,Dr. Wilson,Influenza,2024-01-02,2024-01-05,13165.17,Transferred
+P1023,Patient_23,94,Riverside Clinic,Pediatrics,Dr. Brown,Influenza,2024-04-24,NULL,12611.43,Admitted
+P1024,Patient_24,84,Riverside Clinic,Orthopedics,Dr. Davis,Hypertension,2024-01-13,NULL,766.95,Admitted
+P1025,Patient_25,34,Riverside Clinic,Emergency,Dr. Brown,Dehydration,2024-04-16,NULL,3755.85,Admitted
+P1026,Patient_26,28,Northwest Health,Orthopedics,Dr. Taylor,Hypertension,2024-01-19,2024-01-26,12717.75,Transferred
+P1027,Patient_27,27,St. Jude Medical,Internal Medicine,Dr. Brown,Diabetes,2024-01-18,NULL,8081.75,Admitted
+P1028,Patient_28,73,Northwest Health,Orthopedics,Dr. Wilson,Appendicitis,2024-02-19,2024-02-25,3334.55,Transferred
+P1029,Patient_29,81,City General,Cardiology,Dr. Wilson,Hypertension,2024-01-08,2024-01-10,2336.28,Transferred
+P1030,Patient_30,91,Northwest Health,Oncology,Dr. Taylor,Asthma,2024-03-30,2024-03-31,1983.03,Discharged
+P1031,Patient_31,33,Riverside Clinic,Emergency,Dr. Taylor,Diabetes,2024-02-20,2024-02-27,14385.67,Transferred
+P1032,Patient_32,64,Riverside Clinic,Orthopedics,Dr. Wilson,Appendicitis,2024-03-13,NULL,11411.21,Admitted
+P1033,Patient_33,15,City General,Cardiology,Dr. Brown,Diabetes,2024-02-29,NULL,6906.72,Admitted
+P1034,Patient_34,44,City General,Emergency,Dr. Wilson,Diabetes,2024-01-22,2024-01-25,8693.17,Transferred
+P1035,Patient_35,17,City General,Orthopedics,Dr. Brown,Cardiac Arrest,2024-04-25,NULL,12826.16,Admitted
+P1036,Patient_36,86,City General,Emergency,Dr. Wilson,Asthma,2024-02-27,2024-03-01,7767.7,Transferred
+P1037,Patient_37,76,Memorial Hospital,Pediatrics,Dr. Brown,Appendicitis,2024-01-20,2024-01-21,13063.47,Transferred
+P1038,Patient_38,54,City General,Cardiology,Dr. Wilson,Dehydration,2024-03-30,2024-04-03,5696.03,Discharged
+P1039,Patient_39,13,Riverside Clinic,Cardiology,Dr. Taylor,Diabetes,2024-04-25,NULL,14956.2,Admitted
+P1040,Patient_40,56,City General,Cardiology,Dr. Wilson,Dehydration,2024-02-24,NULL,7101.38,Admitted
+P1041,Patient_41,86,Riverside Clinic,Oncology,Dr. Jones,Hypertension,2024-04-15,2024-04-16,2681.02,Transferred
+P1042,Patient_42,61,Riverside Clinic,Orthopedics,Dr. Taylor,Asthma,2024-04-13,NULL,11672.49,Admitted
+P1043,Patient_43,94,City General,Cardiology,Dr. Taylor,Diabetes,2024-03-15,NULL,3637.24,Admitted
+P1044,Patient_44,89,Memorial Hospital,Cardiology,Dr. Davis,Diabetes,2024-01-31,NULL,11750.81,Admitted
+P1045,Patient_45,6,Northwest Health,Pediatrics,Dr. Jones,Influenza,2024-04-23,2024-04-24,10419.26,Discharged
+P1046,Patient_46,74,St. Jude Medical,Pediatrics,Dr. Taylor,Diabetes,2024-03-29,NULL,2816.6,Admitted
+P1047,Patient_47,89,Memorial Hospital,Pediatrics,Dr. Taylor,Appendicitis,2024-03-31,2024-04-06,6772.86,Transferred
+P1048,Patient_48,67,St. Jude Medical,Oncology,Dr. Jones,Influenza,2024-02-06,NULL,9186.95,Admitted
+P1049,Patient_49,12,Riverside Clinic,Emergency,Dr. Davis,Diabetes,2024-04-07,2024-04-08,2496.03,Discharged
+P1050,Patient_50,2,Riverside Clinic,Pediatrics,Dr. Brown,Asthma,2024-03-22,2024-03-26,7320.47,Transferred
+P1051,Patient_51,86,Riverside Clinic,Pediatrics,Dr. Wilson,Dehydration,2024-03-18,2024-03-23,10842.3,Transferred
+P1052,Patient_52,68,St. Jude Medical,Internal Medicine,Dr. Wilson,Diabetes,2024-02-01,2024-02-05,10470.98,Discharged
+P1053,Patient_53,67,City General,Pediatrics,Dr. Wilson,Influenza,2024-04-06,2024-04-11,5806.78,Transferred
+P1054,Patient_54,83,St. Jude Medical,Oncology,Dr. Wilson,Cardiac Arrest,2024-03-17,2024-03-20,13310.34,Transferred
+P1055,Patient_55,15,St. Jude Medical,Orthopedics,Dr. Wilson,Hypertension,2024-01-07,2024-01-11,3532.1,Discharged
+P1056,Patient_56,82,Riverside Clinic,Internal Medicine,Dr. Jones,Cardiac Arrest,2024-01-10,NULL,12821.36,Admitted
+P1057,Patient_57,76,Northwest Health,Emergency,Dr. Davis,Influenza,2024-02-28,2024-03-04,4815.65,Transferred
+P1058,Patient_58,34,Riverside Clinic,Cardiology,Dr. Davis,Asthma,2024-03-20,2024-03-23,11076.38,Transferred
+P1059,Patient_59,28,St. Jude Medical,Emergency,Dr. Wilson,Dehydration,2024-01-30,2024-02-07,9182.94,Transferred
+P1060,Patient_60,88,Riverside Clinic,Cardiology,Dr. Davis,Appendicitis,2024-01-27,NULL,5194.6,Admitted
+P1061,Patient_61,89,Northwest Health,Cardiology,Dr. Brown,Diabetes,2024-02-25,2024-03-05,14603.19,Discharged
+P1062,Patient_62,93,City General,Cardiology,Dr. Jones,Hypertension,2024-03-31,2024-04-10,8476.76,Discharged
+P1063,Patient_63,45,Memorial Hospital,Orthopedics,Dr. Wilson,Appendicitis,2024-03-22,2024-03-27,546.64,Transferred
+P1064,Patient_64,93,City General,Pediatrics,Dr. Jones,Dehydration,2024-02-02,NULL,13785.95,Admitted
+P1065,Patient_65,73,St. Jude Medical,Cardiology,Dr. Davis,Asthma,2024-01-10,NULL,1290.69,Admitted
+P1066,Patient_66,38,City General,Pediatrics,Dr. Davis,Diabetes,2024-01-12,NULL,2828.65,Admitted
+P1067,Patient_67,73,St. Jude Medical,Emergency,Dr. Davis,Hypertension,2024-02-05,2024-02-09,8123.97,Discharged
+P1068,Patient_68,70,St. Jude Medical,Oncology,Dr. Brown,Influenza,2024-04-23,NULL,13831.18,Admitted
+P1069,Patient_69,14,Memorial Hospital,Cardiology,Dr. Wilson,Cardiac Arrest,2024-03-28,2024-04-01,9266.69,Discharged
+P1070,Patient_70,2,City General,Oncology,Dr. Brown,Asthma,2024-02-24,2024-03-05,14980.38,Transferred
+P1071,Patient_71,10,Riverside Clinic,Internal Medicine,Dr. Taylor,Hypertension,2024-03-02,2024-03-03,13219.02,Transferred
+P1072,Patient_72,44,Northwest Health,Internal Medicine,Dr. Brown,Cardiac Arrest,2024-03-31,2024-04-09,10799.44,Discharged
+P1073,Patient_73,90,St. Jude Medical,Oncology,Dr. Davis,Dehydration,2024-01-01,NULL,5954.2,Admitted
+P1074,Patient_74,68,Northwest Health,Emergency,Dr. Davis,Dehydration,2024-02-29,NULL,3132.22,Admitted
+P1075,Patient_75,56,Riverside Clinic,Pediatrics,Dr. Jones,Hypertension,2024-02-09,NULL,9271.7,Admitted
+P1076,Patient_76,61,City General,Internal Medicine,Dr. Wilson,Asthma,2024-04-27,2024-05-01,12579.6,Discharged
+P1077,Patient_77,63,Northwest Health,Emergency,Dr. Brown,Influenza,2024-01-29,NULL,14043.38,Admitted
+P1078,Patient_78,48,Riverside Clinic,Pediatrics,Dr. Taylor,Cardiac Arrest,2024-02-07,2024-02-11,1932.22,Transferred
+P1079,Patient_79,67,Memorial Hospital,Orthopedics,Dr. Jones,Dehydration,2024-03-17,2024-03-20,8598.89,Discharged
+P1080,Patient_80,9,St. Jude Medical,Orthopedics,Dr. Wilson,Asthma,2024-01-22,NULL,691.08,Admitted
+P1081,Patient_81,20,St. Jude Medical,Emergency,Dr. Davis,Hypertension,2024-04-06,2024-04-10,1139.77,Discharged
+P1082,Patient_82,91,St. Jude Medical,Pediatrics,Dr. Davis,Influenza,2024-01-23,NULL,14021.26,Admitted
+P1083,Patient_83,74,St. Jude Medical,Internal Medicine,Dr. Wilson,Asthma,2024-03-05,2024-03-13,1851.93,Discharged
+P1084,Patient_84,62,Riverside Clinic,Emergency,Dr. Taylor,Dehydration,2024-01-29,NULL,10847.47,Admitted
+P1085,Patient_85,77,City General,Cardiology,Dr. Wilson,Influenza,2024-01-16,NULL,4531.23,Admitted
+P1086,Patient_86,1,St. Jude Medical,Cardiology,Dr. Jones,Asthma,2024-02-11,2024-02-13,12982.5,Discharged
+P1087,Patient_87,8,Riverside Clinic,Cardiology,Dr. Brown,Hypertension,2024-01-23,NULL,2244.24,Admitted
+P1088,Patient_88,39,Memorial Hospital,Emergency,Dr. Davis,Diabetes,2024-01-05,2024-01-14,12263.33,Discharged
+P1089,Patient_89,50,Riverside Clinic,Orthopedics,Dr. Davis,Appendicitis,2024-02-06,2024-02-13,3554.37,Discharged
+P1090,Patient_90,24,Memorial Hospital,Emergency,Dr. Jones,Asthma,2024-04-20,2024-04-23,12785.87,Discharged
+P1091,Patient_91,43,Riverside Clinic,Emergency,Dr. Davis,Asthma,2024-03-28,NULL,1093.5,Admitted
+P1092,Patient_92,70,Memorial Hospital,Oncology,Dr. Wilson,Dehydration,2024-04-13,2024-04-15,8052.35,Discharged
+P1093,Patient_93,18,Northwest Health,Internal Medicine,Dr. Taylor,Dehydration,2024-03-06,2024-03-08,3231.26,Transferred
+P1094,Patient_94,77,Northwest Health,Cardiology,Dr. Taylor,Diabetes,2024-03-12,NULL,13875.48,Admitted
+P1095,Patient_95,40,St. Jude Medical,Oncology,Dr. Brown,Diabetes,2024-03-08,2024-03-13,13587.32,Discharged
+P1096,Patient_96,28,Northwest Health,Orthopedics,Dr. Brown,Hypertension,2024-01-17,2024-01-20,9318.36,Transferred
+P1097,Patient_97,2,Memorial Hospital,Internal Medicine,Dr. Jones,Asthma,2024-01-30,2024-02-06,7240.51,Discharged
+P1098,Patient_98,75,Memorial Hospital,Pediatrics,Dr. Brown,Diabetes,2024-01-24,2024-02-02,6994.69,Transferred
+P1099,Patient_99,34,City General,Pediatrics,Dr. Taylor,Hypertension,2024-01-11,2024-01-21,7159.86,Discharged
